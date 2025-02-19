@@ -1,0 +1,17 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "date created": "date",
+    "type": "multitext",
+    "source": "text",
+    "detail": "text",
+    "segment": "text",
+    "section": "number",
+    "chapter": "number",
+    "topic": "number",
+    "metadata": "number",
+    "subject": "text"
+  }
+}

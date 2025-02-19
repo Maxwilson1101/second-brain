@@ -1,0 +1,227 @@
+{
+  "main": {
+    "id": "c831ef0ae5816b92",
+    "type": "split",
+    "children": [
+      {
+        "id": "7bb43848b51e2f7d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "46ccd6fd247f64d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00. Projects/教资/ZK-EDU-0102-009.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "ZK-EDU-0102-009"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "edd3de802b86fcf5",
+    "type": "split",
+    "children": [
+      {
+        "id": "ec37e1eaa8bbdf9e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "da33f3090a692d9d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "ba831074a902487c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      },
+      {
+        "id": "14f2573da6880cd9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3451886f8936281e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "e0e764410a06ed08",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#zettel",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 296.5,
+    "collapsed": true
+  },
+  "right": {
+    "id": "f5c908de782d4efc",
+    "type": "split",
+    "children": [
+      {
+        "id": "29e8620c0434daae",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "31377d6d83dbe5a4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "diary/2025-02-11.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2025-02-11"
+            }
+          },
+          {
+            "id": "82164625d9486e86",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_config/templates/Zettel Note.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Zettel Note"
+            }
+          },
+          {
+            "id": "41aca4372b2eb0be",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "diary/2025-02-11.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2025-02-11"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 353.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": true,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": true,
+      "command-palette:Open command palette": true,
+      "canvas:Create new canvas": true,
+      "graph:Open graph view": true,
+      "workspaces:Manage workspace layouts": true,
+      "omnisearch:Omnisearch": true,
+      "templater-obsidian:Templater": true,
+      "iconic:Open rulebook": true,
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "obsidian-kanban:Create new board": false
+    }
+  },
+  "active": "46ccd6fd247f64d9",
+  "lastOpenFiles": [
+    "diary/2025-02-11.md",
+    "00. Projects/教资/EX-302-2012a01-009.md",
+    "00. Projects/教资/ZK-EDU-0104-00c.md",
+    "00. Projects/教资/ZK-EDU-0104-00b.md",
+    "00. Projects/教资/ZK-EDU-0102-009.md",
+    "00. Projects/教资/ZK-EDU-0103-00a.md",
+    "Untitled.md",
+    "00. Projects/教资/EX-302-2013a01-009.md",
+    "00. Projects/教资/EX-302-2013b03-009.md",
+    "00. Projects/教资/EX-302-2013b06-009.md",
+    "00. Projects/教资/EX-302-2012b02-009.md",
+    "00. Projects/教资/EX-302-2012a10-009.md",
+    "00. Projects/教资/EX-302-2012a08-009.md",
+    "00. Projects/教资/EX-302-null-NaN.md",
+    "00. Projects/教资/ZK-EDU-0101-004.md",
+    "00. Projects/Untitled",
+    "00. Projects/教资/ZK-EDU-0102-008.md",
+    "00. Projects/教资/ZK-EDU-0101-007.md",
+    "diary/2025-02-06.md",
+    "00. Projects/教资/ZK-EDU-0101-003.md",
+    "00. Projects/教资/ZK-EDU-0101-005.md",
+    "00. Projects/教资/ZK-EDU-0101-001.md",
+    "00. Projects/教资/ZK-EDU-0101-006.md",
+    "00. Projects/教资/ZK-EDU-0101-002.md",
+    "_config/templates/Zettel Template.md",
+    "_test/202502091513.md",
+    "00. Projects/教资/ZK-EDU-0101001.md",
+    "_config/scripts/fillPad.js",
+    "00. Projects/教资",
+    "_config/scripts/convertToHexId.js",
+    "Attachments/image002.jpg",
+    "Attachments/image001.png",
+    "_test",
+    "_config/scripts/extractTasks.js",
+    "_config/scripts/extractTask.js",
+    "_config/scripts/test.js",
+    "_config/scripts/parser.js",
+    "_config/scripts",
+    "Untitled.canvas",
+    "未命名.canvas"
+  ]
+}

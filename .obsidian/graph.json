@@ -1,0 +1,22 @@
+{
+  "collapse-filter": false,
+  "search": "path:\"00. Projects/教资\"  ",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1.40375569661458,
+  "lineSizeMultiplier": 1.99910888671875,
+  "collapse-forces": false,
+  "centerStrength": 0.278523763020833,
+  "repelStrength": 8.93798828125,
+  "linkStrength": 0.8170166015625,
+  "linkDistance": 203,
+  "scale": 0.60127970716777,
+  "close": true
+}

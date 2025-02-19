@@ -1,0 +1,160 @@
+{
+  "choices": [
+    {
+      "id": "8a137f02-cd84-4f82-8917-e0a6006255ad",
+      "name": "Zettel Note",
+      "type": "Macro",
+      "command": true,
+      "macroId": "a10cf2ec-1618-4ccd-8af7-e8a48d3599ad"
+    },
+    {
+      "id": "21cd41fc-7c0f-409c-adb1-c4281139c4c0",
+      "name": "Exam",
+      "type": "Template",
+      "command": true,
+      "templatePath": "_config/templates/Exam.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "{{VALUE:考试名称}}-{{VALUE:考试日期}}-{{VALUE:题号}}"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "00. Projects"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": true
+      },
+      "appendLink": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": false,
+      "openFileInMode": "default",
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": false
+    }
+  ],
+  "macros": [
+    {
+      "name": "Zettel Note",
+      "id": "a10cf2ec-1618-4ccd-8af7-e8a48d3599ad",
+      "commands": [
+        {
+          "name": "Zettel Template",
+          "type": "NestedChoice",
+          "id": "df6c9019-f653-433c-8385-13be2fc57a9b",
+          "choice": {
+            "id": "82b2e540-c872-48c9-8805-9f3ccc82d058",
+            "name": "Zettel Template",
+            "type": "Template",
+            "command": false,
+            "templatePath": "_config/templates/Zettel Template.md",
+            "fileNameFormat": {
+              "enabled": true,
+              "format": "{{DATE:YYYYMMDDHHmm}}"
+            },
+            "folder": {
+              "enabled": true,
+              "folders": [
+                "_test",
+                "00. Projects"
+              ],
+              "chooseWhenCreatingNote": false,
+              "createInSameFolderAsActiveFile": false,
+              "chooseFromSubfolders": true
+            },
+            "appendLink": false,
+            "openFileInNewTab": {
+              "enabled": false,
+              "direction": "vertical",
+              "focus": true
+            },
+            "openFile": true,
+            "openFileInMode": "default",
+            "fileExistsMode": "Increment the file name",
+            "setFileExistsBehavior": false
+          }
+        },
+        {
+          "name": "Templater",
+          "type": "NestedChoice",
+          "id": "c479e863-bcd2-4437-86f4-be92e9508882",
+          "choice": {
+            "id": "fa58899e-f37d-4558-97d1-c07cacd3bb6c",
+            "name": "Templater",
+            "type": "Capture",
+            "command": false,
+            "appendLink": false,
+            "captureTo": "",
+            "captureToActiveFile": true,
+            "createFileIfItDoesntExist": {
+              "enabled": false,
+              "createWithTemplate": false,
+              "template": ""
+            },
+            "format": {
+              "enabled": true,
+              "format": "<% tp.file.rename(`${tp.frontmatter[\"note type\"]}-${tp.frontmatter[\"subject\"]}-${tp.frontmatter[\"topic\"]}-${tp.user.convertToHexId(tp.frontmatter[\"metadata\"], 3)}`) %>"
+            },
+            "insertAfter": {
+              "enabled": true,
+              "after": "",
+              "insertAtEnd": true,
+              "considerSubsections": false,
+              "createIfNotFound": false,
+              "createIfNotFoundLocation": "top"
+            },
+            "prepend": false,
+            "task": false,
+            "openFileInNewTab": {
+              "enabled": false,
+              "direction": "vertical",
+              "focus": true
+            },
+            "openFile": false,
+            "openFileInMode": "default"
+          }
+        }
+      ],
+      "runOnStartup": false
+    }
+  ],
+  "inputPrompt": "single-line",
+  "devMode": false,
+  "templateFolderPath": "",
+  "announceUpdates": true,
+  "version": "1.11.5",
+  "disableOnlineFeatures": false,
+  "enableRibbonIcon": false,
+  "ai": {
+    "defaultModel": "Ask me",
+    "defaultSystemPrompt": "As an AI assistant within Obsidian, your primary goal is to help users manage their ideas and knowledge more effectively. Format your responses using Markdown syntax. Please use the [[Obsidian]] link format. You can write aliases for the links by writing [[Obsidian|the alias after the pipe symbol]]. To use mathematical notation, use LaTeX syntax. LaTeX syntax for larger equations should be on separate lines, surrounded with double dollar signs ($$). You can also inline math expressions by wrapping it in $ symbols. For example, use $$w_{ij}^{\text{new}}:=w_{ij}^{\text{current}}+etacdotdelta_jcdot x_{ij}$$ on a separate line, but you can write \"($eta$ = learning rate, $delta_j$ = error term, $x_{ij}$ = input)\" inline.",
+    "promptTemplatesFolderPath": "ai prompts",
+    "showAssistant": true,
+    "providers": [
+      {
+        "name": "deepseek",
+        "endpoint": "https://api.deepseek.com/v1",
+        "apiKey": "sk-a05e17829a714508abb8b11e8d15d8d5",
+        "models": [
+          {
+            "name": "deepseek-chat",
+            "maxTokens": null
+          }
+        ]
+      }
+    ]
+  },
+  "migrations": {
+    "migrateToMacroIDFromEmbeddedMacro": true,
+    "useQuickAddTemplateFolder": true,
+    "incrementFileNameSettingMoveToDefaultBehavior": true,
+    "mutualExclusionInsertAfterAndWriteToBottomOfFile": true,
+    "setVersionAfterUpdateModalRelease": true,
+    "addDefaultAIProviders": true
+  }
+}

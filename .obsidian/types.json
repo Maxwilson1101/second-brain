@@ -1,0 +1,12 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "date created": "date",
+    "section": "text",
+    "chapter": "text",
+    "topic": "text",
+    "answer": "text"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "biggerIcons": "mobile",
+  "clickableIcons": "desktop",
+  "showAllFileIcons": false,
+  "showAllFolderIcons": false,
+  "minimalFolderIcons": false,
+  "showItemName": "desktop",
+  "biggerSearchResults": "mobile",
+  "maxSearchResults": 50,
+  "colorPicker1": "list",
+  "colorPicker2": "rgb",
+  "uncolorHover": false,
+  "uncolorDrag": false,
+  "uncolorSelect": false,
+  "uncolorQuick": false,
+  "rememberDeletedItems": false,
+  "dialogState": {
+    "iconMode": true,
+    "emojiMode": false,
+    "rulePage": "file"
+  },
+  "appIcons": {},
+  "tabIcons": {},
+  "fileIcons": {},
+  "bookmarkIcons": {},
+  "tagIcons": {},
+  "propertyIcons": {
+    "metadata": {
+      "icon": "lucide-book-open-text"
+    },
+    "topic": {
+      "icon": "lucide-book-marked"
+    },
+    "worthies": {
+      "icon": "lucide-laugh"
+    },
+    "writings": {
+      "icon": "lucide-pen"
+    }
+  },
+  "ribbonIcons": {},
+  "fileRules": [],
+  "folderRules": []
+}

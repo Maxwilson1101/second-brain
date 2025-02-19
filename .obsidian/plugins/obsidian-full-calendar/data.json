@@ -1,0 +1,20 @@
+{
+  "calendarSources": [
+    {
+      "type": "caldav",
+      "name": "家庭",
+      "url": "https://caldav.icloud.com",
+      "homeUrl": "https://caldav.icloud.com/16943611699/calendars/03fc9e8add42e9eb7d1880df19fa26b4d5d7228752a52c27c6b5d479141f3b0e/",
+      "color": "#63DA38",
+      "username": "wshengyu3001@gmail.com",
+      "password": "baej-xwqr-exhq-yaqd"
+    }
+  ],
+  "defaultCalendar": 0,
+  "firstDay": 0,
+  "initialView": {
+    "desktop": "timeGridWeek",
+    "mobile": "timeGrid3Days"
+  },
+  "timeFormat24h": false
+}
