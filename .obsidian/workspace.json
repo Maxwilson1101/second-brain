@@ -6,7 +6,6 @@
       {
         "id": "81a3fbe267e19955",
         "type": "tabs",
-        "dimension": 59.12256267409471,
         "children": [
           {
             "id": "14d7c1ec09dad829",
@@ -14,23 +13,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01. Dataview/教资.md",
+                "file": "02. Notes/教资/课程理论流派/学科中心流派.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "教资"
+              "title": "学科中心流派"
             }
-          }
-        ]
-      },
-      {
-        "id": "f4e35ced0b4f418e",
-        "type": "tabs",
-        "dimension": 40.87743732590529,
-        "children": [
+          },
           {
-            "id": "d4df11242ab0fea9",
+            "id": "f5500957e32f37c7",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -97,17 +89,13 @@
             }
           },
           {
-            "id": "0bd4b7566a756fdd",
+            "id": "9855b1e9495ea17c",
             "type": "leaf",
             "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-archive",
-              "title": "All properties"
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           },
           {
@@ -132,8 +120,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 296.5,
-    "collapsed": true
+    "width": 296.5
   },
   "right": {
     "id": "f5c908de782d4efc",
@@ -149,12 +136,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "02. Notes/教资/课程理论流派/学科中心流派.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 学科中心流派"
             }
           },
           {
@@ -182,20 +170,19 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00. Projects/教资/教资科二-2013a-09.md",
+                "file": "02. Notes/教资/课程理论流派/学科中心流派.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 教资科二-2013a-09"
+              "title": "Outgoing links from 学科中心流派"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 353.5,
+    "width": 604.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -206,37 +193,44 @@
       "command-palette:Open command palette": true,
       "canvas:Create new canvas": true,
       "graph:Open graph view": true,
-      "workspaces:Manage workspace layouts": false
+      "workspaces:Manage workspace layouts": false,
+      "omnisearch:Omnisearch": true,
+      "templater-obsidian:Templater": true,
+      "iconic:Open rulebook": true,
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d4df11242ab0fea9",
+  "active": "14d7c1ec09dad829",
   "lastOpenFiles": [
-    "00. Projects/教资/教资科二-2013a-19.md",
-    "01. Dataview/教资.md",
-    "00. Projects/教资/教资科二-2016b-12.md",
-    "00. Projects/教资/教资科二-2016a-19.md",
-    "00. Projects/教资/教资科二-2016a-20.md",
-    "00. Projects/教资/教资科二-2016a-21.md",
-    "00. Projects/教资/教资科二-2013a-20.md",
+    "02. Notes/教资/课程理论流派/学科中心流派.md",
     "00. Projects/教资/教资科二-2016b-21.md",
-    "00. Projects/教资/教资科二-2016a-14.md",
-    "00. Projects/教资/教资科二-2016b-18.md",
-    "00. Projects/教资/教资科二-2013a-17.md",
     "00. Projects/教资/教资科二-2016b-19.md",
+    "00. Projects/教资/教资科二-2016b-18.md",
     "00. Projects/教资/教资科二-2016b-17.md",
     "00. Projects/教资/教资科二-2016b-15.md",
-    "00. Projects/教资/教资科二-2013a-14.md",
+    "00. Projects/教资/教资科二-2016b-12.md",
+    "00. Projects/教资/教资科二-2016b-02.md",
+    "00. Projects/教资/教资科二-2016b-01.md",
+    "00. Projects/教资/教资科二-2016a-21.md",
+    "00. Projects/教资/教资科二-2016a-20.md",
+    "00. Projects/教资/教资科二-2016a-19.md",
+    "00. Projects/教资/教资科二-2016a-14.md",
     "00. Projects/教资/教资科二-2016a-09.md",
     "00. Projects/教资/教资科二-2016a-08.md",
-    "00. Projects/教资/教资科二-2013a-09.md",
     "00. Projects/教资/教资科二-2016a-07.md",
-    "00. Projects/教资/教资科二-2013a-06.md",
-    "00. Projects/教资/教资科二-2013a-03.md",
-    "00. Projects/教资/教资科二-2016b-01.md",
+    "00. Projects/教资/教资科二-2016a-06.md",
     "00. Projects/教资/教资科二-2016a-01.md",
-    "00. Projects/教资/教资科二-2013a-04.md",
-    "00. Projects/教资/教资科二-2013a-01.md",
-    "00. Projects/教资/教资科二-2016b-02.md",
+    "00. Projects/教资/教资科二-2013a-20.md",
+    "00. Projects/教资/教资科二-2013a-19.md",
+    "00. Projects/教资/教资科二-2013a-18.md",
+    "00. Projects/教资/教资科二-2013a-17.md",
+    "00. Projects/教资/教资科二-2013a-14.md",
+    "00. Projects/教资/教资科二-2013a-11.md",
+    "00. Projects/教资/教资科二-2013a-10.md",
+    "00. Projects/教资/教资科二-2013a-09.md",
+    "02. Notes/教资/课程理论流派",
     "00. Projects/_trash",
     "kanban",
     "02. Notes/教资",
@@ -248,7 +242,6 @@
     "_config/scripts/convertToHexId.js",
     "Attachments/image002.jpg",
     "Attachments/image001.png",
-    "_test",
     "Untitled.canvas",
     "未命名.canvas"
   ]
