@@ -15,9 +15,9 @@
   "uncolorQuick": false,
   "rememberDeletedItems": false,
   "dialogState": {
-    "iconMode": true,
-    "emojiMode": false,
-    "rulePage": "file"
+    "iconMode": false,
+    "emojiMode": true,
+    "rulePage": "folder"
   },
   "appIcons": {},
   "tabIcons": {},

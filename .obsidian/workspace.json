@@ -4,31 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "81a3fbe267e19955",
+        "id": "fe888445fcd0cff2",
         "type": "tabs",
         "children": [
           {
-            "id": "14d7c1ec09dad829",
+            "id": "cd6aadf89e9e8050",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02. Notes/教资/课程理论流派/学科中心流派.md",
+                "file": "01. Dataview/教资.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "学科中心流派"
-            }
-          },
-          {
-            "id": "f5500957e32f37c7",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "教资"
             }
           }
         ]
@@ -136,13 +126,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02. Notes/教资/课程理论流派/学科中心流派.md",
+                "file": "02. Notes/教资/影响问题解决的因素.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 学科中心流派"
+              "title": "Outline of 影响问题解决的因素"
             }
           },
           {
@@ -151,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_config/templates/Zettel Note.md",
+                "file": "01. Dataview/教资.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +151,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Zettel Note"
+              "title": "Backlinks for 教资"
             }
           },
           {
@@ -170,20 +160,30 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02. Notes/教资/课程理论流派/学科中心流派.md",
+                "file": "02. Notes/教资/影响问题解决的因素.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 学科中心流派"
+              "title": "Outgoing links from 影响问题解决的因素"
+            }
+          },
+          {
+            "id": "b47e4518aa05ad45",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 604.5,
-    "collapsed": true
+    "width": 769.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,50 +196,50 @@
       "workspaces:Manage workspace layouts": false,
       "omnisearch:Omnisearch": true,
       "templater-obsidian:Templater": true,
-      "iconic:Open rulebook": true,
+      "iconic:Open rulebook": false,
       "obsidian-full-calendar:Open Full Calendar": false,
       "obsidian-kanban:Create new board": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "14d7c1ec09dad829",
+  "active": "cd6aadf89e9e8050",
   "lastOpenFiles": [
-    "02. Notes/教资/课程理论流派/学科中心流派.md",
-    "00. Projects/教资/教资科二-2016b-21.md",
-    "00. Projects/教资/教资科二-2016b-19.md",
-    "00. Projects/教资/教资科二-2016b-18.md",
+    "01. Dataview/教资.md",
+    "00. Projects/教资/教资科二-2013b-14.md",
     "00. Projects/教资/教资科二-2016b-17.md",
-    "00. Projects/教资/教资科二-2016b-15.md",
-    "00. Projects/教资/教资科二-2016b-12.md",
-    "00. Projects/教资/教资科二-2016b-02.md",
-    "00. Projects/教资/教资科二-2016b-01.md",
-    "00. Projects/教资/教资科二-2016a-21.md",
-    "00. Projects/教资/教资科二-2016a-20.md",
-    "00. Projects/教资/教资科二-2016a-19.md",
-    "00. Projects/教资/教资科二-2016a-14.md",
-    "00. Projects/教资/教资科二-2016a-09.md",
-    "00. Projects/教资/教资科二-2016a-08.md",
-    "00. Projects/教资/教资科二-2016a-07.md",
-    "00. Projects/教资/教资科二-2016a-06.md",
-    "00. Projects/教资/教资科二-2016a-01.md",
+    "02. Notes/教资/学习策略/复述策略.md",
+    "02. Notes/教资/道德发展论/科尔伯格道德发展论.md",
+    "02. Notes/教资/道德发展论/皮亚杰道德发展论.md",
+    "02. Notes/教资/教育学.md",
+    "02. Notes/教资/维纳的成败归因理论.md",
+    "00. Projects/教资/教资科二-2013b-19.md",
+    "02. Notes/教资/道德发展论",
+    "02. Notes/教资/心理辅导方法/系统脱敏法.md",
+    "02. Notes/教资/心理辅导方法/消退法.md",
+    "02. Notes/教资/心理辅导方法/惩罚法.md",
+    "02. Notes/教资/心理辅导方法/行为疗法.md",
+    "02. Notes/教资/心理辅导方法/强化法.md",
+    "02. Notes/教资/心理辅导方法/来访者中心疗法.md",
+    "02. Notes/教资/心理辅导方法/合理情绪疗法.md",
+    "02. Notes/教资/常见的心理健康问题/强迫症.md",
+    "02. Notes/教资/心理辅导方法",
+    "02. Notes/教资/常见的心理健康问题/恐惧症.md",
+    "02. Notes/教资/常见的心理健康问题/焦虑症.md",
+    "02. Notes/教资/常见的心理健康问题/抑郁症.md",
+    "02. Notes/教资/常见的心理健康问题",
+    "00. Projects/教资/教资科二-2013b-20.md",
     "00. Projects/教资/教资科二-2013a-20.md",
-    "00. Projects/教资/教资科二-2013a-19.md",
-    "00. Projects/教资/教资科二-2013a-18.md",
-    "00. Projects/教资/教资科二-2013a-17.md",
-    "00. Projects/教资/教资科二-2013a-14.md",
-    "00. Projects/教资/教资科二-2013a-11.md",
-    "00. Projects/教资/教资科二-2013a-10.md",
-    "00. Projects/教资/教资科二-2013a-09.md",
-    "02. Notes/教资/课程理论流派",
-    "00. Projects/_trash",
-    "kanban",
-    "02. Notes/教资",
-    "01. Dataview/教资",
-    "01. Dataview",
-    "Books/CS61B",
-    "_config/scripts/fillPad.js",
-    "00. Projects/教资",
-    "_config/scripts/convertToHexId.js",
+    "00. Projects/教资/教资科二-2013b-10.md",
+    "00. Projects/教资/教资科二-2013a-03.md",
+    "02. Notes/教资/德育原则/疏导性原则.md",
+    "02. Notes/教资/教学组织形式/道尔顿制.md",
+    "02. Notes/教资/名人",
+    "02. Notes/教资/教学组织形式",
+    "02. Notes/教资/学习策略",
+    "02. Notes/教资/影响问题解决的因素",
+    "02. Notes/教资/中学常用的教学原则",
+    "02. Notes/教资/中学德育方法",
+    "02. Notes/教资/德育原则",
     "Attachments/image002.jpg",
     "Attachments/image001.png",
     "Untitled.canvas",
