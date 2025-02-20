@@ -1,12 +1,34 @@
 {
   "collapse-filter": false,
   "search": "tag:#教资  ",
-  "showTags": false,
+  "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": false,
   "collapse-color-groups": false,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "",
+      "color": {
+        "a": 1,
+        "rgb": 14048348
+      }
+    },
+    {
+      "query": "",
+      "color": {
+        "a": 1,
+        "rgb": 14069084
+      }
+    },
+    {
+      "query": "tag:#教资/科二/选择  ",
+      "color": {
+        "a": 1,
+        "rgb": 11392604
+      }
+    }
+  ],
   "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": -1.2,
@@ -17,6 +39,6 @@
   "repelStrength": 12.8361002604167,
   "linkStrength": 0.8170166015625,
   "linkDistance": 173,
-  "scale": 0.525245388059817,
+  "scale": 0.4763864810304103,
   "close": true
 }
