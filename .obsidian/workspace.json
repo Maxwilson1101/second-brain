@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "f82f997c8a4add2a",
+        "id": "3499865ca2781eab",
         "type": "tabs",
         "children": [
           {
-            "id": "dfe54a4bb4a201ac",
+            "id": "353ffc2c844d6d72",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00. Projects/教资/教资科二-2013a-01.md",
-                "mode": "preview",
+                "file": "00. Projects/教资/科二/教资科二-2013a-01.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
@@ -142,7 +142,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#book",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -158,18 +158,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 296.5
+    "width": 375.5
   },
   "right": {
     "id": "f5c908de782d4efc",
     "type": "split",
     "children": [
       {
-        "id": "29e8620c0434daae",
+        "id": "07d1baf822923689",
         "type": "tabs",
         "children": [
           {
-            "id": "fc6e23e5eaac4801",
+            "id": "9004aebf46c04b18",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -182,7 +182,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 671.5,
+    "width": 668.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -200,49 +200,47 @@
       "obsidian-full-calendar:Open Full Calendar": false,
       "obsidian-kanban:Create new board": false,
       "obsidian-git:Open Git source control": false,
-      "smart-second-brain:Open S2B Chat": false,
-      "copilot:Open Copilot Chat": false,
       "open-vscode:VSCode": false
     }
   },
-  "active": "9855b1e9495ea17c",
+  "active": "da33f3090a692d9d",
   "lastOpenFiles": [
-    "00. Projects/教资/教资科二-2013a-01.md",
-    "Chats/路径00._Projects教资下的文件都是我的错题记录，比如：[[教资科二-2013a-01]]。_路径02._Notes教资下的文件都是我的笔记记录，比如：[[社会本位论]]。_我现在想要让我的g@20250222_112048.md",
-    "01. Dataview/教资.md",
-    "Chats/New Chat.md",
+    "02. Notes/教资/常见的心理健康问题/焦虑症.md",
+    "02. Notes/教资/教学组织形式/教学组织形式.md",
+    "Books/Understanding Analysis/Understanding Analysis.md",
+    "Books/The Elements/The Elements.md",
+    "Books/MCS/MCS.md",
+    "00. Projects/教资/科二/教资科二-2016b-21.md",
+    "00. Projects/教资/科二/教资科二-2016b-19.md",
+    "00. Projects/教资/科二/教资科二-2016b-18.md",
+    "00. Projects/教资/科二/教资科二-2016b-17.md",
+    "00. Projects/教资/科二/教资科二-2016b-15.md",
+    "00. Projects/教资/科二/教资科二-2016b-12.md",
+    "00. Projects/教资/科二/教资科二-2016b-02.md",
+    "00. Projects/教资/科二/教资科二-2016b-01.md",
+    "00. Projects/教资/科二/教资科二-2016a-21.md",
+    "00. Projects/教资/科二/教资科二-2016a-20.md",
+    "00. Projects/教资/科二/教资科二-2016a-19.md",
+    "00. Projects/教资/科二/教资科二-2016a-14.md",
+    "00. Projects/教资/科二/教资科二-2016a-09.md",
+    "00. Projects/教资/科二/教资科二-2016a-08.md",
+    "00. Projects/教资/科二/教资科二-2016a-07.md",
+    "00. Projects/教资/科二/教资科二-2016a-06.md",
+    "00. Projects/教资/科二/教资科二-2016a-01.md",
+    "00. Projects/教资/科二/教资科二-2014b-20.md",
+    "00. Projects/教资/科二/教资科二-2014b-19.md",
+    "00. Projects/教资/科二/教资科二-2014b-17.md",
+    "00. Projects/教资/科二/教资科二-2014b-15.md",
+    "00. Projects/教资/科二",
     "Chats",
-    "diary/2025-02-20.md",
-    "03. Web/《操作系统》课程概述.md",
     "03. Web",
-    "02. Notes/教资/教育目的理论/社会本位论.md",
-    "02. Notes/教资/社会知觉偏差/近因效应.md",
-    "02. Notes/教资/教育目的理论/教育无目的论.md",
-    "02. Notes/教资/教育目的理论/个人本位论.md",
-    "02. Notes/教资/教育目的理论/生活本位论.md",
     "02. Notes/教资/教育目的理论",
-    "02. Notes/教资/社会知觉偏差/投射效应.md",
-    "02. Notes/教资/Untitled.md",
-    "02. Notes/教资/社会知觉偏差/晕轮效应.md",
-    "02. Notes/教资/社会知觉偏差/刻板效应.md",
-    "02. Notes/教资/社会知觉偏差/首因效应.md",
-    "00. Projects/教资/教资科二-2014b-20.md",
     "02. Notes/教资/社会知觉偏差",
-    "02. Notes/教资/群体的功能/塑造功能.md",
-    "02. Notes/教资/群体的功能/支持功能.md",
-    "02. Notes/教资/群体的功能/认同功能.md",
-    "02. Notes/教资/群体的功能/归属功能.md",
     "02. Notes/教资/群体的功能",
-    "00. Projects/教资/教资科二-2014b-19.md",
-    "00. Projects/教资/教资科二-2014b-17.md",
-    "00. Projects/教资/教资科二-2013b-19.md",
-    "00. Projects/教资/教资科二-2016b-12.md",
-    "00. Projects/教资/教资科二-2014b-15.md",
     "02. Notes/教资/教育的社会属性",
     "02. Notes/教资/道德发展论",
     "02. Notes/教资/心理辅导方法",
     "02. Notes/教资/常见的心理健康问题",
-    "02. Notes/教资/名人",
     "Attachments/image002.jpg",
     "Attachments/image001.png",
     "Untitled.canvas",
