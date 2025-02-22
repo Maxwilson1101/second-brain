@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "tag:#教资  ",
+  "search": "",
   "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -15,17 +15,17 @@
       }
     },
     {
-      "query": "",
+      "query": "path:\"00. Projects\"  ",
       "color": {
         "a": 1,
         "rgb": 14069084
       }
     },
     {
-      "query": "tag:#教资/科二/选择  ",
+      "query": "tag:#教资  ",
       "color": {
         "a": 1,
-        "rgb": 11392604
+        "rgb": 6073814
       }
     }
   ],
@@ -39,6 +39,6 @@
   "repelStrength": 12.8361002604167,
   "linkStrength": 0.8170166015625,
   "linkDistance": 173,
-  "scale": 0.4763864810304103,
+  "scale": 0.44874586168455505,
   "close": true
 }

@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "fe888445fcd0cff2",
+        "id": "f82f997c8a4add2a",
         "type": "tabs",
         "children": [
           {
-            "id": "cd6aadf89e9e8050",
+            "id": "dfe54a4bb4a201ac",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02. Notes/教资/教育目的理论/社会本位论.md",
-                "mode": "source",
+                "file": "00. Projects/教资/教资科二-2013a-01.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "社会本位论"
+              "title": "教资科二-2013a-01"
             }
           }
         ]
@@ -89,12 +89,60 @@
             }
           },
           {
+            "id": "31377d6d83dbe5a4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "01. Dataview/教资.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 教资"
+            }
+          },
+          {
+            "id": "82164625d9486e86",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "01. Dataview/教资.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 教资"
+            }
+          },
+          {
+            "id": "41aca4372b2eb0be",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "01. Dataview/教资.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 教资"
+            }
+          },
+          {
             "id": "e0e764410a06ed08",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "[\"detail\"]",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -121,52 +169,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "31377d6d83dbe5a4",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "02. Notes/教资/影响问题解决的因素.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline of 影响问题解决的因素"
-            }
-          },
-          {
-            "id": "82164625d9486e86",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks"
-            }
-          },
-          {
-            "id": "41aca4372b2eb0be",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links"
-            }
-          },
-          {
             "id": "fc6e23e5eaac4801",
             "type": "leaf",
             "state": {
@@ -176,12 +178,12 @@
               "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 769.5
+    "width": 671.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,22 +199,32 @@
       "iconic:Open rulebook": false,
       "obsidian-full-calendar:Open Full Calendar": false,
       "obsidian-kanban:Create new board": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "smart-second-brain:Open S2B Chat": false,
+      "copilot:Open Copilot Chat": false,
+      "open-vscode:VSCode": false
     }
   },
-  "active": "fc6e23e5eaac4801",
+  "active": "9855b1e9495ea17c",
   "lastOpenFiles": [
+    "00. Projects/教资/教资科二-2013a-01.md",
+    "Chats/路径00._Projects教资下的文件都是我的错题记录，比如：[[教资科二-2013a-01]]。_路径02._Notes教资下的文件都是我的笔记记录，比如：[[社会本位论]]。_我现在想要让我的g@20250222_112048.md",
+    "01. Dataview/教资.md",
+    "Chats/New Chat.md",
+    "Chats",
+    "diary/2025-02-20.md",
+    "03. Web/《操作系统》课程概述.md",
+    "03. Web",
     "02. Notes/教资/教育目的理论/社会本位论.md",
+    "02. Notes/教资/社会知觉偏差/近因效应.md",
     "02. Notes/教资/教育目的理论/教育无目的论.md",
     "02. Notes/教资/教育目的理论/个人本位论.md",
     "02. Notes/教资/教育目的理论/生活本位论.md",
-    "01. Dataview/教资.md",
     "02. Notes/教资/教育目的理论",
     "02. Notes/教资/社会知觉偏差/投射效应.md",
     "02. Notes/教资/Untitled.md",
     "02. Notes/教资/社会知觉偏差/晕轮效应.md",
     "02. Notes/教资/社会知觉偏差/刻板效应.md",
-    "02. Notes/教资/社会知觉偏差/近因效应.md",
     "02. Notes/教资/社会知觉偏差/首因效应.md",
     "00. Projects/教资/教资科二-2014b-20.md",
     "02. Notes/教资/社会知觉偏差",
@@ -226,18 +238,11 @@
     "00. Projects/教资/教资科二-2013b-19.md",
     "00. Projects/教资/教资科二-2016b-12.md",
     "00. Projects/教资/教资科二-2014b-15.md",
-    "00. Projects/教资/教资科二-2014b-12.md",
-    "00. Projects/教资/教资科二-2016b-17.md",
-    "00. Projects/教资/教资科二-2013b-14.md",
-    "00. Projects/教资/教资科二-2014b-11.md",
-    "00. Projects/教资/教资科二-2013a-11.md",
     "02. Notes/教资/教育的社会属性",
     "02. Notes/教资/道德发展论",
     "02. Notes/教资/心理辅导方法",
     "02. Notes/教资/常见的心理健康问题",
     "02. Notes/教资/名人",
-    "02. Notes/教资/教学组织形式",
-    "02. Notes/教资/学习策略",
     "Attachments/image002.jpg",
     "Attachments/image001.png",
     "Untitled.canvas",

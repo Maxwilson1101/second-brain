@@ -137,15 +137,10 @@
     "showAssistant": true,
     "providers": [
       {
-        "name": "deepseek",
-        "endpoint": "https://api.deepseek.com/v1",
-        "apiKey": "sk-a05e17829a714508abb8b11e8d15d8d5",
-        "models": [
-          {
-            "name": "deepseek-chat",
-            "maxTokens": null
-          }
-        ]
+        "name": "Ollama",
+        "endpoint": "http://localhost:11434/v1",
+        "apiKey": "",
+        "models": []
       }
     ]
   },

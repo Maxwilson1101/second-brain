@@ -18,5 +18,6 @@
   "highlightr-plugin",
   "obsidian-meta-bind-plugin",
   "tag-wrangler",
-  "obsidian-git"
+  "obsidian-git",
+  "open-vscode"
 ]
