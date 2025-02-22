@@ -11,8 +11,8 @@
       "ignore-keys": ""
     },
     "escape-yaml-special-characters": {
-      "enabled": false,
-      "try-to-escape-single-line-arrays": false
+      "enabled": true,
+      "try-to-escape-single-line-arrays": true
     },
     "force-yaml-escape": {
       "enabled": false,
@@ -177,7 +177,7 @@
     },
     "compact-yaml": {
       "enabled": true,
-      "inner-new-lines": false
+      "inner-new-lines": true
     },
     "consecutive-blank-lines": {
       "enabled": false

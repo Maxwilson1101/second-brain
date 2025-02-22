@@ -1,5 +1,5 @@
 ---
-date created: <% tp.date.now("YYYY-MM-DD") %>
+date created: '<% tp.date.now("YYYY-MM-DD") %>'
 ---
 
 # Weekly Journal for <% tp.date.now("YYYY-MM-DD") %>
