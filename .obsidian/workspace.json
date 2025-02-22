@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00. Projects/教资/科二/教资科二-2013a-01.md",
-                "mode": "source",
+                "file": "00. Projects/教资/教资.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "教资科二-2013a-01"
+              "title": "教资"
             }
           }
         ]
@@ -182,8 +182,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 668.5,
-    "collapsed": true
+    "width": 647.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -203,8 +202,12 @@
       "open-vscode:VSCode": false
     }
   },
-  "active": "da33f3090a692d9d",
+  "active": "9004aebf46c04b18",
   "lastOpenFiles": [
+    "00. Projects/教资/教资.md",
+    "01. Dataview/教资.md",
+    "00. Projects/教资/科二/教资科二-2013a-01.md",
+    "00. Projects/教资/科二/教资科二-2015a-02.md",
     "02. Notes/教资/常见的心理健康问题/焦虑症.md",
     "02. Notes/教资/教学组织形式/教学组织形式.md",
     "Books/Understanding Analysis/Understanding Analysis.md",
@@ -227,10 +230,6 @@
     "00. Projects/教资/科二/教资科二-2016a-07.md",
     "00. Projects/教资/科二/教资科二-2016a-06.md",
     "00. Projects/教资/科二/教资科二-2016a-01.md",
-    "00. Projects/教资/科二/教资科二-2014b-20.md",
-    "00. Projects/教资/科二/教资科二-2014b-19.md",
-    "00. Projects/教资/科二/教资科二-2014b-17.md",
-    "00. Projects/教资/科二/教资科二-2014b-15.md",
     "00. Projects/教资/科二",
     "Chats",
     "03. Web",

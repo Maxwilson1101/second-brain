@@ -1,7 +1,7 @@
 {
   "collapse-filter": false,
   "search": "-tag:#note -tag: #book -tag:#question  ",
-  "showTags": true,
+  "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": false,
@@ -74,6 +74,6 @@
   "repelStrength": 12.8361002604167,
   "linkStrength": 0.8170166015625,
   "linkDistance": 173,
-  "scale": 0.367296677248443,
+  "scale": 0.3024678485822935,
   "close": true
 }
