@@ -19,5 +19,7 @@
   "obsidian-meta-bind-plugin",
   "tag-wrangler",
   "obsidian-git",
-  "open-vscode"
+  "open-vscode",
+  "note-refactor-obsidian",
+  "folder-notes"
 ]
