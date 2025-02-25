@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_test/toc.md",
+                "file": "00. Projects/SJTU复试/Leetcode-面试题02-04.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "toc"
+              "title": "Leetcode-面试题02-04"
             }
           }
         ]
@@ -169,24 +169,25 @@
         "type": "tabs",
         "children": [
           {
-            "id": "353ffc2c844d6d72",
+            "id": "027add07b503bbb5",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "copilot-chat-view",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "message-square",
+              "title": "Copilot"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 807.5,
+    "width": 697.5,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "copilot:Open Copilot Chat": false,
       "switcher:Open quick switcher": true,
       "daily-notes:Open today's daily note": true,
       "templates:Insert template": true,
@@ -205,42 +206,42 @@
   },
   "active": "75665b50873bf8b9",
   "lastOpenFiles": [
-    "_test/2023a/2023a.md",
-    "_test/2022b/2022b.md",
-    "_test/2022a/2022a.md",
+    "00. Projects/教资/科二/科二.md",
+    "00. Projects/SJTU复试/Leetcode-面试题02-04.md",
+    "00. Projects/SJTU复试",
     "_test/2021b/2021b.md",
+    "_test/2022a/2022a-25.md",
+    "_test/2022a/2022a.md",
+    "_test/2022a/2022a-24.md",
+    "02. Notes/教资/影响问题解决的因素/情绪动机.md",
+    "_test/2022a/2022a-23.md",
+    "00. Projects/教资/科二/教资科二-2014b-10.md",
+    "_test/2022a/2022a-22.md",
+    "_test/2022a/2022a-21.md",
+    "_test/近5年科二.md",
+    "_test/2022a/2022a-01.md",
+    "_test/2021b/2021b-31.md",
+    "_test/2021b/2021b-30.md",
+    "_test/2021b/2021b-29.md",
+    "_test/2021b/2021b-28.md",
+    "_test/2021b/2021b-27.md",
+    "_test/2021b/2021b-26.md",
+    "_test/2021b/2021b-25.md",
+    "_test/2021b/2021b-24.md",
+    "_test/2021b/2021b-23.md",
+    "_test/2021b/2021b-22.md",
     "_test/2021a/2021a.md",
-    "_test/toc.md",
+    "_test/2021a/2021a-31.md",
+    "_test/2021a/2021a-30.md",
+    "02. Notes/教资/注意的分类",
     "_test/Untitled",
     "_test/2023a",
-    "_test/2023a/2023a-30.md",
-    "_test/2023a/2023a-29.md",
-    "_test/2023a/2023a-28.md",
-    "_test/2023a/2023a-27.md",
-    "_test/2023a/2023a-26.md",
-    "_test/2023a/2023a-25.md",
-    "_test/2023a/2023a-24.md",
-    "_test/2023a/2023a-23.md",
-    "_test/2023a/2023a-22.md",
-    "_test/2023a/2023a-21.md",
-    "_test/2023a/2023a-20.md",
-    "_test/2023a/2023a-19.md",
-    "_test/2023a/2023a-18.md",
-    "_test/2023a/2023a-17.md",
-    "_test/2023a/2023a-16.md",
-    "_test/2023a/2023a-15.md",
-    "_test/2023a/2023a-14.md",
-    "_test/2023a/2023a-13.md",
-    "_test/2023a/2023a-12.md",
-    "_test/2023a/2023a-11.md",
     "_test/2022b",
     "_test/2022a",
     "_test/2021b",
     "_test/2021a",
     "02. Notes/教资/维果斯基的文化-历史发展理论",
     "02. Notes/教资/学业成绩的检查与评价",
-    "02. Notes/教资/应对压力的方法/Untitled",
-    "02. Notes/教资/应对压力的方法",
     "Attachments/image002.jpg",
     "Attachments/image001.png",
     "Untitled.canvas",

@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "",
+  "search": "-path:\"00. Projects\" -path:\"03. Web\" -path:_config -path:\"01. Dataview\" -path:diary  ",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -66,14 +66,14 @@
   ],
   "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": -1.2,
-  "nodeSizeMultiplier": 2.00190022786458,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 3.20576578776042,
   "lineSizeMultiplier": 1.99910888671875,
   "collapse-forces": false,
   "centerStrength": 0.4951171875,
-  "repelStrength": 12.8361002604167,
+  "repelStrength": 20,
   "linkStrength": 0.8170166015625,
-  "linkDistance": 173,
-  "scale": 0.2879355661398161,
+  "linkDistance": 449,
+  "scale": 0.14753844168693706,
   "close": true
 }

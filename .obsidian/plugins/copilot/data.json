@@ -13,9 +13,9 @@
   "azureOpenAIApiEmbeddingDeploymentName": "",
   "googleApiKey": "",
   "openRouterAiApiKey": "",
-  "defaultChainType": "llm_chain",
-  "defaultModelKey": "gpt-4o|openai",
-  "embeddingModelKey": "deepseek-r1:14b|ollama",
+  "defaultChainType": "vault_qa",
+  "defaultModelKey": "hunyuan-turbo|3rd party (openai-format)",
+  "embeddingModelKey": "hunyuan-embedding|3rd party (openai-format)",
   "temperature": 0.7,
   "maxTokens": 1000,
   "contextTurns": 15,
@@ -143,7 +143,7 @@
     {
       "name": "deepseek-r1:14b",
       "provider": "ollama",
-      "enabled": true,
+      "enabled": false,
       "isBuiltIn": false,
       "baseUrl": "",
       "apiKey": "",
@@ -151,6 +151,21 @@
       "capabilities": [],
       "stream": true,
       "displayName": "deepseek"
+    },
+    {
+      "name": "hunyuan-turbo",
+      "provider": "3rd party (openai-format)",
+      "enabled": true,
+      "isBuiltIn": false,
+      "baseUrl": "https://api.hunyuan.cloud.tencent.com/v1",
+      "apiKey": "sk-8dn1YgW1gUYXzaiveyFogL60bNLZArRzG8UqPucgs8ajSVov",
+      "isEmbeddingModel": false,
+      "capabilities": [
+        "reasoning",
+        "websearch"
+      ],
+      "stream": true,
+      "displayName": "hunyuan"
     }
   ],
   "activeEmbeddingModels": [
@@ -188,6 +203,21 @@
       "isBuiltIn": true,
       "isEmbeddingModel": true,
       "core": true
+    },
+    {
+      "name": "hunyuan-embedding",
+      "provider": "3rd party (openai-format)",
+      "enabled": true,
+      "isBuiltIn": false,
+      "baseUrl": "https://api.hunyuan.cloud.tencent.com/v1",
+      "apiKey": "sk-8dn1YgW1gUYXzaiveyFogL60bNLZArRzG8UqPucgs8ajSVov",
+      "isEmbeddingModel": true,
+      "capabilities": [
+        "websearch",
+        "reasoning"
+      ],
+      "displayName": "hunyuan",
+      "enableCors": true
     },
     {
       "name": "deepseek-r1:14b",
