@@ -1,26 +1,30 @@
 ```C++
 ListNode* partition(ListNode* head, int x) {
     ListNode* dummy = new ListNode(0, head);
-    ListNode* s_tail = dummy;
-    ListNode* g_head = head;
-    ListNode* prev = dummy;
-    ListNode* curr = prev->next;
+    ListNode* s_dummy = new ListNode();
+    ListNode* s_tail = s_dummy;
+    ListNode* g_dummy = new ListNode();
+    ListNode* g_tail = g_dummy;
+
+    ListNode* curr = head;
     // Traverse the list and partition it into two parts
     while (curr != nullptr) {
+        dummy->next = curr->next;
+
         if (curr->val < x) {
-            if (curr == g_head) {
-                g_head = g_head->next;
-            }
-            prev->next = curr->next;
-            curr->next = g_head;
             s_tail->next = curr;
-            s_tail = curr;
-            curr = prev->next;
+            s_tail = s_tail->next;
+        } else {
+            g_tail->next = curr;
+            g_tail = g_tail->next;
         }
-        prev = prev->next;
+
         curr = curr->next;
     }
 
-    return dummy->next;
+    s_tail->next = g_dummy->next;
+    g_tail->next = nullptr;
+        
+    return s_dummy->next;
 }
 ```
